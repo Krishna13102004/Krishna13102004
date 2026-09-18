@@ -26,6 +26,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🚀_6-Projects_Built-0a0a0a?style=flat-square&color=1e3a8a" />
+  <img src="https://img.shields.io/badge/💼_2-Professional_Trainings-0a0a0a?style=flat-square&color=2563EB" />
+  <img src="https://img.shields.io/badge/🏆_4-Certifications-0a0a0a?style=flat-square&color=3B82F6" />
+  <img src="https://img.shields.io/badge/🎓_8.31-CGPA-0a0a0a?style=flat-square&color=60A5FA" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
 </p>
 
@@ -51,6 +58,10 @@
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
@@ -235,6 +246,13 @@
 </p>
 <p align="center"><sub>⚙️ Needs a one-time GitHub Actions setup on your profile repo — see <code>PROFILE_SETUP_GUIDE.md</code>.</sub></p>
 
+### 🌆 3D GitHub Skyline (Looping Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krishna13102004/Krishna13102004/main/metrics.skyline.svg" width="100%" alt="3D GitHub Skyline" />
+</p>
+<p align="center"><sub>⚙️ A rotating 3D city built from your commit history — needs the metrics Action from <code>PROFILE_SETUP_GUIDE.md</code>. This is the most visually striking widget in this README; set this one up first if you only do one.</sub></p>
+
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
@@ -261,6 +279,9 @@
 </td>
 <td align="center" width="200" style="padding: 14px;">
 <a href="https://github.com/Krishna13102004" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /></a><br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="200" style="padding: 14px;">
+<a href="https://wa.me/918608202918" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/2563EB" width="55" height="55" /></a><br/><sub><b>WhatsApp</b></sub>
 </td>
 </tr>
 </table>
