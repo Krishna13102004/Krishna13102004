@@ -1,185 +1,272 @@
+<a id="top"></a>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Hi%2C+I'm+Krishna+K+%F0%9F%91%8B;Full+Stack+Java+Developer;React+%26+Spring+Boot+Developer;Android+%26+Flutter+App+Builder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:60a5fa&height=260&section=header&text=Krishna%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20Flutter&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krishna-k-013903273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <a href="mailto:romankris112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <a href="https://github.com/Krishna13102004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=0a0a0a" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=40&lines=Building+full-stack+apps+with+Java%2C+Spring+Boot+%26+React.js+%F0%9F%9A%80;Open+to+Software+Developer+opportunities;B.E.+CSE+Graduate+%E2%80%94+2026+Batch;Java+%7C+Spring+Boot+%7C+React.js+%7C+Flutter" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#certs">Certifications</a> •
+  <a href="#stats">GitHub Stats</a> •
+  <a href="#connect">Connect</a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/krishna-k-013903273" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="mailto:romankris112@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /></a>
+  <a href="https://github.com/Krishna13102004" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=0a0a0a" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=Krishna13102004&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h2 align="center">🧑‍💻 About Me</h2>
-
 <p align="center">
-  Hey! I'm <b>Krishna K</b>, a <b>Full Stack Java Developer</b> and final-year Computer Science Engineering student based in Sivagangai, India.<br />
-  I build scalable web platforms with <b>Spring Boot &amp; React.js</b>, and Android apps with <b>Kotlin</b>.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-111111?style=flat-square&labelColor=0a0a0a&color=2563EB" alt="Status" />
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-2563EB?style=flat-square" alt="Degree" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-111111?style=flat-square&labelColor=0a0a0a&color=3B82F6" alt="Focus" />
+<a id="about"></a>
+## 🧑‍💻 About Me
+
+<table width="100%" border="0">
+<tr>
+<td width="62%" valign="top">
+
+> 💬 Enthusiastic **Full Stack Java Developer** — B.E. Computer Science Engineering graduate (2026 Batch) with hands-on experience in web &amp; mobile application development, skilled in **Java, Spring Boot, React.js, and Android (Kotlin)**. I love turning ideas into scalable, production-ready applications — and I'm actively looking for a Software Developer / Java Developer / Full Stack Developer role to grow that further.
+
+<p>
+  <img src="https://img.shields.io/badge/🎓_B.E._CSE-2026_Batch-0a0a0a?style=flat-square&color=2563EB" />
+  <img src="https://img.shields.io/badge/CGPA-8.31%2F10-0a0a0a?style=flat-square&color=3B82F6" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Trichy,_Tamil_Nadu-0a0a0a?style=flat-square&color=60A5FA" />
+  <img src="https://img.shields.io/badge/🟢_Open_to-Software_Dev_%7C_Java_Dev_%7C_Full_Stack-0a0a0a?style=flat-square&color=1D4ED8" />
 </p>
 
-<p align="center">
-  💬 <b>Let's Discuss:</b> Java, Spring Boot, React.js, Kotlin, REST APIs &amp; MVC Architecture<br />
-  ⚡ <b>Philosophy:</b> <i>"Build scalable, efficient applications that solve real problems."</i>
-</p>
-
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🚀 Flagship Project</h4>
-      <p><b>Smart-Mess ERP</b><br /><sub>Inventory Optimization &amp; Demand Forecasting</sub></p>
-    </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🌱 Active Deep Dives</h4>
-      <p><b>Spring Boot &amp; React</b><br /><sub>REST API Design &amp; MVC Architecture</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>💼 Current Role</h4>
-      <p><b>Full Stack Developer Intern</b><br /><sub>Besant Technologies, Chennai</sub></p>
-    </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🤝 Collaboration</h4>
-      <p><b>Web &amp; Mobile</b><br /><sub>Open to exciting new projects</sub></p>
-    </td>
-  </tr>
+</td>
+<td width="38%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</td>
+</tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
+</p>
 
-<h2 align="center">⭐ Featured Project Spotlight</h2>
+<a id="skills"></a>
+## 🛠️ Tech Stack &amp; Skills
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td align="center" style="padding: 22px;">
-      <h3>🍽️ Smart-Mess — Inventory Optimization System</h3>
-      <p><i>A full-stack ERP system for hostel food inventory management with demand forecasting to reduce food wastage. Built with Spring Boot, React.js &amp; MySQL.</i></p>
-      <br />
-      <p>
-        <a href="https://github.com/Krishna13102004" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-View%20Project-111111?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=0a0a0a" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+<h4>💻 Languages</h4>
+<img src="https://skillicons.dev/icons?i=java,cs,kotlin,dart,js,html,css&theme=dark" />
+</td>
+<td width="50%" align="center">
+<h4>⚙️ Frameworks</h4>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,react,flutter,nodejs,express,bootstrap&theme=dark" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>📱 Mobile</h4>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&theme=dark" />
+</td>
+<td width="50%" align="center">
+<h4>🗄️ Databases</h4>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h4>🧰 Tools &amp; Platforms</h4>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman&theme=dark" />
+</td>
+</tr>
 </table>
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="50%" align="center" style="padding: 16px;">
-      <h4>⚓ BlackPearl — Shipyard Management</h4>
-      <p><sub>Role-based admin dashboard for shipment tracking &amp; port operations</sub></p>
-      <a href="https://github.com/Krishna13102004/BlackPearl" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white" alt="BlackPearl Repo" />
-      </a>
-    </td>
-    <td width="50%" align="center" style="padding: 16px;">
-      <h4>🚗 RevTrack — Vehicle Service Management</h4>
-      <p><sub>Automated reminders, scheduling &amp; PDF invoice generation</sub></p>
-      <a href="https://github.com/Krishna13102004" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white" alt="RevTrack Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding: 16px;">
-      <h4>🔒 Hostel Lock System — Android Access Tracking</h4>
-      <p><sub>Kotlin + SQLite app for ID-based entry/exit tracking with an admin monitoring interface</sub></p>
-      <a href="https://github.com/Krishna13102004" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white" alt="Hostel Lock Repo" />
-      </a>
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API_Design-0a0a0a?style=for-the-badge&color=1e3a8a" />
+  <img src="https://img.shields.io/badge/MVC_Architecture-0a0a0a?style=for-the-badge&color=2563EB" />
+  <img src="https://img.shields.io/badge/OOP_Principles-0a0a0a?style=for-the-badge&color=3B82F6" />
+  <img src="https://img.shields.io/badge/Agile_Development-0a0a0a?style=for-the-badge&color=60A5FA" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
+</p>
+
+<a id="experience"></a>
+## 💼 Experience Timeline
+
+<table width="100%" border="0">
+<tr>
+<td width="65%" valign="top">
+
+**🏢 Full Stack Development Trainee** — Besant Technologies, Chennai
+📅 *Dec 2025 – Apr 2026 · 5 Months*
+- Developed &amp; maintained web apps using **Java + Spring Boot** (MVC architecture)
+- Designed and optimized **MySQL** database schemas for production
+- Built REST APIs and integrated **React.js** frontend with the Spring Boot backend
+- Created responsive UIs with **Bootstrap**, ensuring cross-browser compatibility
+
+<br/>
+
+**📱 Mobile Application Development Intern** — eQuadriga Software, Trichy
+📅 *Jul 2025*
+- Built Android UI screens &amp; navigation flow using **Kotlin + XML**
+- Designed a **SQLite** database for user management and activity tracking
+- Built a secure entry/exit logging system and admin dashboard with performance optimizations
+
+</td>
+<td width="35%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" />
+</td>
+</tr>
 </table>
 
----
-
-<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
-
-<p align="center"><b>Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,kotlin,dart,js,html,css&theme=dark" alt="Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
 </p>
 
-<p align="center"><b>Frameworks &amp; Frontend</b></p>
+<a id="projects"></a>
+## 🚀 Featured Projects
+
+<table width="100%" border="0">
+<tr>
+<td align="center" style="padding: 18px;">
+<h3>🍽️ Smart-Mess — Inventory Optimization System</h3>
+<p><i>Full-stack ERP for hostel food inventory management — meal planning, vendor management &amp; demand forecasting to cut food wastage. Secured with JWT authentication and Role-Based Access Control (RBAC) across admin, vendor &amp; staff roles.</i></p>
+<img src="https://img.shields.io/badge/Java-1e3a8a?style=flat-square" /> <img src="https://img.shields.io/badge/Spring_Boot-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/React.js-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-60A5FA?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" style="padding: 14px;">
+<h4>⚓ BlackPearl — Shipyard Management System</h4>
+<p><sub>Role-based admin dashboard for shipment tracking, stock control &amp; port operations, with secure access for admin/manager/staff.</sub></p>
+<img src="https://img.shields.io/badge/Java-1e3a8a?style=flat-square" /> <img src="https://img.shields.io/badge/Spring_Boot-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-60A5FA?style=flat-square" />
+<br/>
+<a href="https://github.com/Krishna13102004/BlackPearl" target="_blank"><img src="https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=60A5FA" /></a>
+</td>
+<td width="50%" valign="top" style="padding: 14px;">
+<h4>🚗 RevTrack — Vehicle Service Management</h4>
+<p><sub>Automated service reminders, maintenance scheduling &amp; PDF report generation for invoices and billing.</sub></p>
+<img src="https://img.shields.io/badge/React.js-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Spring_Boot-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-60A5FA?style=flat-square" />
+<br/>
+<a href="https://github.com/Krishna13102004" target="_blank"><img src="https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=60A5FA" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 14px;">
+<h4>💳 CrediVanta — EMI Manager</h4>
+<p><sub>Automated EMI calculations with due-date tracking and a dashboard for repayment visibility.</sub></p>
+<img src="https://img.shields.io/badge/JavaScript-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/LocalStorage-60A5FA?style=flat-square" />
+<br/>
+<a href="https://github.com/Krishna13102004" target="_blank"><img src="https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=60A5FA" /></a>
+</td>
+<td width="50%" valign="top" style="padding: 14px;">
+<h4>✈️ Airline Reservation System</h4>
+<p><sub>Flight scheduling &amp; booking with seat allocation and passenger management.</sub></p>
+<img src="https://img.shields.io/badge/HTML-1e3a8a?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-60A5FA?style=flat-square" />
+<br/>
+<a href="https://github.com/Krishna13102004" target="_blank"><img src="https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=60A5FA" /></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="padding: 14px;">
+<h4>🔒 Hostel Lock System — Android Access Tracking</h4>
+<p><sub>ID-based entry/exit tracking with on-device SQLite storage and a real-time admin monitoring interface.</sub></p>
+<img src="https://img.shields.io/badge/Kotlin-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/XML-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-60A5FA?style=flat-square" />
+<br/>
+<a href="https://github.com/Krishna13102004" target="_blank"><img src="https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=60A5FA" /></a>
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,flutter,nodejs,express,bootstrap&theme=dark" alt="Frameworks" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
 </p>
 
-<p align="center"><b>Mobile Development</b></p>
+<a id="certs"></a>
+## 🏆 Certifications
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&theme=dark" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development_Certification-0a0a0a?style=for-the-badge&color=1e3a8a&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development_Trainee-0a0a0a?style=for-the-badge&color=2563EB&logo=googlescholar&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Frontend_Development_Certification-0a0a0a?style=for-the-badge&color=3B82F6&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Certification-0a0a0a?style=for-the-badge&color=60A5FA&logo=googlescholar&logoColor=white" />
+</p>
+<p align="center"><sub>All issued by Besant Technologies</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
 </p>
 
-<p align="center"><b>Databases, Tools &amp; Platforms</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,vscode,eclipse,postman&theme=dark" alt="Tools" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+<a id="stats"></a>
+## 📊 GitHub Stats &amp; Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna13102004&show_icons=true&bg_color=0a0a0a&title_color=2563EB&text_color=f3f4f6&icon_color=3B82F6&border_color=2563EB" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna13102004&show_icons=true&bg_color=0a0a0a&title_color=2563EB&text_color=f3f4f6&icon_color=3B82F6&border_color=2563EB&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna13102004&layout=compact&bg_color=0a0a0a&title_color=2563EB&text_color=f3f4f6&border_color=2563EB" width="38%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna13102004&theme=dark&hide_border=false&border=2563EB&background=0a0a0a&ring=2563EB&fire=3B82F6&currStreakLabel=2563EB" width="60%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Krishna13102004&theme=dark&hide_border=false&border=2563EB&background=0a0a0a&ring=2563EB&fire=3B82F6&currStreakLabel=60A5FA" width="60%" alt="GitHub Streak" />
 </p>
-
----
-
-<h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna13102004&bg_color=0a0a0a&color=60A5FA&line=2563EB&point=FFFFFF&area=true&area_color=1e3a8a&hide_border=true" width="90%" alt="Activity Graph" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna13102004&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+</p>
 
-<h2 align="center">📫 Let's Connect &amp; Collaborate</h2>
+### 🐍 Contribution Snake
 
-<p align="center"><i>Whether it's a full-stack project, an internship, or just a chat about Spring Boot &amp; React — my inbox is always open!</i></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krishna13102004/Krishna13102004/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+<p align="center"><sub>⚙️ Needs a one-time GitHub Actions setup on your profile repo — see <code>PROFILE_SETUP_GUIDE.md</code>.</sub></p>
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krishna13102004/Krishna13102004/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+</p>
+<p align="center"><sub>⚙️ Also needs a one-time GitHub Actions setup — see <code>PROFILE_SETUP_GUIDE.md</code>.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:60a5fa&height=4&width=1000" width="100%"/>
+</p>
+
+<a id="connect"></a>
+## 📫 Let's Connect
+
+<p align="center"><i>Open to Software Developer, Java Developer &amp; Full Stack roles, plus collaborative projects — always happy to talk Java, Spring Boot or React!</i></p>
 
 <table border="0" align="center">
-  <tr>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://linkedin.com/in/krishna-k-013903273" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-      </a>
-      <br /><sub><b>Professional Network</b></sub>
-    </td>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="mailto:romankris112@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-      </a>
-      <br /><sub><b>Direct Collaboration</b></sub>
-    </td>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://github.com/Krishna13102004" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
-      </a>
-      <br /><sub><b>Source Code</b></sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="200" style="padding: 14px;">
+<a href="https://linkedin.com/in/krishna-k-013903273" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" /></a><br/><sub><b>LinkedIn</b></sub>
+</td>
+<td align="center" width="200" style="padding: 14px;">
+<a href="mailto:romankris112@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" /></a><br/><sub><b>Email</b></sub>
+</td>
+<td align="center" width="200" style="padding: 14px;">
+<a href="https://github.com/Krishna13102004" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /></a><br/><sub><b>GitHub</b></sub>
+</td>
+</tr>
 </table>
 
+<p align="center"><a href="#top">⬆️ Back to top</a></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Sivagangai,_Tamil_Nadu-2563EB?style=for-the-badge&labelColor=0a0a0a" alt="Location" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:60a5fa&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=22&fontColor=ffffff" width="100%"/>
 </p>
