@@ -13,10 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Skyline
+        uses: lowlighter/metrics@latest
         with:
-          token: NOT_NEEDED
+          token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: Krishna13102004
           filename: metrics.skyline.svg
           base: ""
           plugin_skyline: yes
